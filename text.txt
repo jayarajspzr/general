@@ -1,2 +1,6 @@
 testing for text
+<<<<<<< HEAD
 welcome  branch two
+=======
+welcome text
+>>>>>>> bf6135134415016d57734fffed7dfd04f7f936a5
